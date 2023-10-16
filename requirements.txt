@@ -1,4 +1,6 @@
-streamlit==1.26.0
+# Note: These requirements are for deployment on Render, since it is out-of-date.
+# streamlit==1.26.0
+streamlit==1.23.1
 pandas==2.1.0
 numpy==1.25.2
 matplotlib==3.7.2
